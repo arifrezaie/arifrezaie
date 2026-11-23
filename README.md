@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sharif Rasouli
+# 👋 Hi, I'm Arif Rezaie
 
 <div align="center">
 
@@ -8,8 +8,8 @@
 
 Building modern, scalable, and user-focused web applications.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sharifrasouli)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sharifrasouli)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arifrezaie)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arifrezaie)
 
 </div>
 
@@ -77,7 +77,7 @@ A full-stack task management application built to demonstrate frontend and backe
 - Role-Based Access Control
 - Jest
 
-[![View Project](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Sharifrasouli/task-manager)
+[![View Project](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/arifrezaie/task-manager)
 
 ### 2. Shopping Cart – E-commerce Application
 
@@ -100,7 +100,7 @@ A personal developer portfolio showcasing projects, technical skills, and profes
 - TypeScript
 - Responsive Web Design
 
-[![View Project](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Sharifrasouli/my-portfolio)
+[![View Project](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/arifrezaie/my-portfolio)
 
 ---
 
@@ -141,8 +141,8 @@ I'm interested in connecting with developers, learning from experienced engineer
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Sharifrasouli)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sharifrasouli)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/arifrezaie)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/arifrezaie)
 
 ### 💡 Building today, improving tomorrow.
 
